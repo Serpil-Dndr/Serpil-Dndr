@@ -1,4 +1,5 @@
-![MasterHead](https://t3.ftcdn.net/jpg/01/96/03/94/360_F_196039475_6MbF6oSsJJIQdSkS5sBUl52JfvYVSeNP.jpg)
+![MasterHead](https://blog.bydrec.com/hubfs/3%20Benefits%20of%20Outsourcing%20the%20QA%20and%20Testing%20of%20Your%20New%20Programming%20Software.jpg)
+
 
 <h1 align="center">Hi 👋, I'm Serpil Dundar</h1>
 <h3 align="center">A passionate Automation Engineer from Canada</h3>
