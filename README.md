@@ -1,4 +1,4 @@
-![MasterHead](https://content.intland.com/hubfs/Improving%20Your%20Software%20Quality%20Assurance%20Process%20in%202021.png)
+
 
 
 <h1 align="center">Hi 👋, I'm Serpil Dundar</h1>
