@@ -1,22 +1,38 @@
+# 👋 Hi, I'm Serpil Dundar
 
+## QA Automation Engineer | Cloud Enthusiast | DevOps Advocate
 
+I am a **QA Automation Engineer** with a strong focus on **cloud technologies**, passionate about delivering high-quality software through **automated testing** and **cloud-based solutions**. I believe in the power of **cloud-native architectures** and **CI/CD pipelines** to build scalable and reliable applications.
 
-<h1 align="center">Hi 👋, I'm Serpil Dundar</h1>
-<h3 align="center">A passionate QA Automation Engineer from Canada</h3>
+## 🚀 Technologies & Tools
 
-<!--h3 align="left">Connect with me:</h3-->
-<p align="left">
-</p>
+### 💻 QA Automation
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+- **Test Automation Frameworks**: Selenium, Cypress, Appium
+- **Programming Languages**: Java, JavaScript, Python
+- **Testing Strategies**: Unit Testing, Integration Testing, E2E Testing
+- **CI/CD**: Jenkins, GitHub Actions, Travis CI
+- **Test Management Tools**: JIRA, TestRail
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=serpil-dndr&show_icons=true&locale=en&layout=compact" alt="serpil-dndr" /></p>
+### 🌐 Cloud Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&locale=en" alt="serpil-dndr" /></p>
+- **Cloud Platforms**: Microsoft Azure, AWS
+- **Infrastructure as Code**: Terraform, ARM Templates
+- **Containerization**: Docker, Kubernetes
+- **Databases**: MySQL, SQL Server, PostgreSQL, MongoDB
+- **Cloud-Native**: Serverless, Microservices, Azure Functions
+- **DevOps Tools**: Git, GitHub, Jenkins, Helm
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=serpil-dndr&" alt="serpil-dndr" /></p>
+## 📈 GitHub Stats
 
+![Serpil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
+## 📫 How to reach me
 
-![snake gif](https://github.com/Serpil-Dndr/Serpil-Dndr/blob/output/github-contribution-grid-snake.gif)
+- 📧 Email: serpil.dundar@example.com
+- 🌐 LinkedIn: [Serpil Dundar](https://www.linkedin.com/in/serpil-dundar)
+- 🐦 Twitter: [@serpil_dundar](https://twitter.com/serpil_dundar)
+
+---
+
+> **Fun Fact**: I love blending the worlds of **QA** and **cloud technologies** to ensure that automation is seamless, and applications are robust, scalable, and reliable. Let’s build the future of cloud-native applications with top-notch testing! 🌥️💻
