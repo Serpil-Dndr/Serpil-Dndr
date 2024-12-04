@@ -54,6 +54,10 @@
 
 ![Serpil's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=serpil-dndr&)
 
+## 🟩 GitHub Contribution Graph
+
+![Serpil's GitHub Contributions](https://github.com/serpil-dndr/serpil-dndr/blob/main/assets/github-contribution-grid-snake.svg)
+
 ---
 
 ## 💬 Let's Connect
