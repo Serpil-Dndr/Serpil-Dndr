@@ -7,12 +7,12 @@ I’m a **QA Automation Engineer** passionate about combining **cloud technologi
 ## 🚀 Technologies & Tools
 
 ### QA Automation
-- **Frameworks**: Selenium, Cypress
+- **Frameworks**: Selenium 
 - **Languages**: Java, JavaScript, Python
 - **CI/CD**: Jenkins, GitHub Actions
 
 ### Cloud Technologies
-- **Cloud Platforms**: Microsoft Azure, AWS
+- **Cloud Platforms**: Microsoft Azure
 - **Containerization**: Docker, Kubernetes
 - **Databases**: SQL Server, MySQL
 - **DevOps Tools**: Terraform, Git, Azure DevOps
