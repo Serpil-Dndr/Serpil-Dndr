@@ -1,38 +1,32 @@
 # 👋 Hi, I'm Serpil Dundar
 
-## QA Automation Engineer | Cloud Enthusiast | DevOps Advocate
+## QA Automation Engineer | Cloud Enthusiast | Tech Innovator
 
-I am a **QA Automation Engineer** with a strong focus on **cloud technologies**, passionate about delivering high-quality software through **automated testing** and **cloud-based solutions**. I believe in the power of **cloud-native architectures** and **CI/CD pipelines** to build scalable and reliable applications.
+I’m a **QA Automation Engineer** passionate about combining **cloud technologies** with **automation** to build scalable, reliable applications. With a focus on **continuous integration**, **cloud-native architecture**, and **automated testing**, I aim to deliver quality software that thrives in the cloud.
 
 ## 🚀 Technologies & Tools
 
-### 💻 QA Automation
+### QA Automation
+- **Frameworks**: Selenium, Cypress
+- **Languages**: Java, JavaScript, Python
+- **CI/CD**: Jenkins, GitHub Actions
 
-- **Test Automation Frameworks**: Selenium, Cypress, Appium
-- **Programming Languages**: Java, JavaScript, Python
-- **Testing Strategies**: Unit Testing, Integration Testing, E2E Testing
-- **CI/CD**: Jenkins, GitHub Actions, Travis CI
-- **Test Management Tools**: JIRA, TestRail
-
-### 🌐 Cloud Technologies
-
+### Cloud Technologies
 - **Cloud Platforms**: Microsoft Azure, AWS
-- **Infrastructure as Code**: Terraform, ARM Templates
 - **Containerization**: Docker, Kubernetes
-- **Databases**: MySQL, SQL Server, PostgreSQL, MongoDB
-- **Cloud-Native**: Serverless, Microservices, Azure Functions
-- **DevOps Tools**: Git, GitHub, Jenkins, Helm
+- **Databases**: SQL Server, MySQL
+- **DevOps Tools**: Terraform, Git, Azure DevOps
 
 ## 📈 GitHub Stats
 
 ![Serpil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-## 📫 How to reach me
+## 🔗 Let's Connect
 
-- 📧 Email: serpil.dundar@example.com
-- 🌐 LinkedIn: [Serpil Dundar](https://www.linkedin.com/in/serpil-dundar)
-- 🐦 Twitter: [@serpil_dundar](https://twitter.com/serpil_dundar)
+- 📧 **Email**: dundarserpil.ca@gmail.com
+- 🌐 **LinkedIn**: [Serpil Dundar](https://www.linkedin.com/in/serpildundar/)
+
 
 ---
 
-> **Fun Fact**: I love blending the worlds of **QA** and **cloud technologies** to ensure that automation is seamless, and applications are robust, scalable, and reliable. Let’s build the future of cloud-native applications with top-notch testing! 🌥️💻
+I’m passionate about using **automation** and **cloud technologies** to improve application quality and scalability. Let’s connect and build something amazing! 🚀
