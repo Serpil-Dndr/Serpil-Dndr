@@ -2,8 +2,6 @@
 
 ## QA Automation Engineer | Cloud Enthusiast | Tech Innovator
 
-![Serpil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&hide_title=true&count_private=true&hide=prs)
-
 ---
 ## 📈 GitHub Stats
 
@@ -13,9 +11,7 @@
 
 ![Serpil's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=serpil-dndr&)
 
-## 🟩 GitHub Contribution Graph
 
-![Serpil's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&count_private=true&hide_title=true)
 
 ---
 
