@@ -5,6 +5,25 @@
 ![Serpil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
 ---
+## 📈 GitHub Stats
+
+![Serpil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&count_private=true&hide=prs&hide_title=true)
+
+## 🔥 GitHub Streak
+
+![Serpil's Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=serpil-dndr&)
+
+## 🟩 GitHub Contribution Graph
+
+![Serpil's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&count_private=true&hide_title=true)
+
+---
+
+## 💬 Let's Connect
+
+- 📧 **Email**: [dundarserpil.ca@gmail.com](mailto:dundarserpil.ca@gmail.com)
+- 🌐 **LinkedIn**: [Serpil Dundar](https://www.linkedin.com/in/serpildundar/)
+
 
 ## 🚀 Technical Skills
 
