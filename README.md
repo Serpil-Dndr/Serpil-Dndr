@@ -56,7 +56,8 @@
 
 ## 🟩 GitHub Contribution Graph
 
-![Serpil's GitHub Contributions](https://github.com/serpil-dndr/serpil-dndr/blob/main/assets/github-contribution-grid-snake.svg)
+![Serpil's GitHub Contributions](https://github-readme-stats.vercel.app/api?username=serpil-dndr&show_icons=true&count_private=true&hide_title=true)
+
 
 ---
 
